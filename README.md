@@ -1,2 +1,2 @@
 # mimir
-Personal AI Assistant that work locally
+Personal AI Assistant that works with Google Gemini.
